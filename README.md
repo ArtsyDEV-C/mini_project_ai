@@ -1,1 +1,1 @@
-# mini_project_ai
+# nekoglobalweather2
